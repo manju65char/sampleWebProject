@@ -1,0 +1,18 @@
+
+# ignore the all files with .hmtl extension
+
+*.html
+
+# track some files in ignored files 
+
+
+!demofile24.html
+!demofile25.html
+!demofile26.html
+!demofile27.html
+!demofile28.html
+!demofile29.html
+!demofile3.html
+
+
+   
